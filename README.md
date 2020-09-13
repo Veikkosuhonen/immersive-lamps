@@ -2,6 +2,8 @@
 
 # immersive-lamps
 
+Get the [Latest release](https://github.com/Veikkosuhonen/immersive-lamps/releases/tag/0.1.0)
+
 Custom material shaders for lamps in Minecraft using the shader api provided by [Canvas rendering mod](https://github.com/grondag/canvas) 
 
 To use this resourcepack, you need the [Fabric mod loader](https://fabricmc.net/use/), 

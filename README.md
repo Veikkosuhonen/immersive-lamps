@@ -2,6 +2,8 @@
 
 # immersive-lamps
 
+Get the [Latest release](https://github.com/Veikkosuhonen/immersive-lamps/releases/tag/0.1.0)
+
 Custom material shaders for lamps in Minecraft using the shader api provided by [Canvas rendering mod](https://github.com/grondag/canvas) 
 
 To use this resourcepack, you need the [Fabric mod loader](https://fabricmc.net/use/), 
@@ -33,4 +35,4 @@ The resourcepack adds custom shaders and will negatively affect performance when
 
 ## Customization
 
-If want to disable a material (such as for performance reasons), simply unzip the pack folder and remove the corresponding json-file at `assets/minecraft/materialmaps/block/` (For example `assets/minecraft/materialmaps/block/sea_lantern.json`.
+If want to disable a material (for example because of performance reasons), simply unzip the pack folder and remove the corresponding json-file at `assets/minecraft/materialmaps/block/` (For example `assets/minecraft/materialmaps/block/sea_lantern.json`.

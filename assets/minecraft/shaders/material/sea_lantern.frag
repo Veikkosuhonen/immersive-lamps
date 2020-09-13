@@ -41,7 +41,7 @@ void frx_startFragment(inout frx_FragmentData fragData)
     float f = fbm(st + r);
     
     vec3 color1 = vec3(0.0, 0.5608, 0.5333);
-    vec3 color2 = vec3(0.0, 0.7647, 1.0) * f;
+    vec3 color2 = vec3(0.1373, 0.8, 1.0) * f;
     vec3 color3 = vec3(0.0, 0.9804, 0.6549);
 
     vec3 color = color1 + color2 * f;

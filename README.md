@@ -17,7 +17,7 @@ All the implemented materials have some interesting procedural patterns created 
 - [x] Flickering flame effect for lanterns and soul lanterns 
 - [x] Sea lanterns have a trippy swirling effect (maybe reminiscent of bioluminescence or some glowy fluid)
 - [x] Shroomlights occassionally flash in mysterious patterns
-- [ ] Something cool for glowstone
+- [x] Glowstone shimmers in periodical patterns
 - [ ] Something cool for redstone lamp
 - [ ] Something cool for end rod
 

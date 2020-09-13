@@ -6,13 +6,13 @@ varying vec2 v_noise_uv;
 
 float fbm( in vec2 st )
 {
-    float G = 0.47;
+    float G = 0.55;
     float a = 0.75;
     float t = 0.0;
 
     vec2 shift = vec2(100.0);
     mat2 rot = mat2(cos(.5), sin(.5), -sin(.5), cos(.5));
-     for( int i=0; i<4; i++ )
+     for( int i=0; i<3; i++ )
     {
         t += a*snoise(st);
         st = rot * st * 2.0 + shift;

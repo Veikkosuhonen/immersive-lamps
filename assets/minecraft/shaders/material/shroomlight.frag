@@ -10,7 +10,7 @@ void frx_startFragment(inout frx_FragmentData fragData)
     if (0.8 < fragData.spriteColor.g)
     {
         float time = frx_renderSeconds();
-        vec3 st = vec3(v_noise_uv * 8.0 + vec2(offset), 16.0*time);
+        vec3 st = vec3(v_noise_uv * 4.0, 16.0*time);
 
         vec4 flashColor = vec4(0.4314, 0.6314, 1.0, 1.0);
         

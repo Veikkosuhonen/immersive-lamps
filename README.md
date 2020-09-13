@@ -33,4 +33,4 @@ The resourcepack adds custom shaders and will negatively affect performance when
 
 ## Customization
 
-If want to disable a material (such as for performance reasons), simply unzip the pack folder and remove the corresponding json-file at `assets/minecraft/materialmaps/block/` (For example `assets/minecraft/materialmaps/block/sea_lantern.json`.
+If want to disable a material (for example because of performance reasons), simply unzip the pack folder and remove the corresponding json-file at `assets/minecraft/materialmaps/block/` (For example `assets/minecraft/materialmaps/block/sea_lantern.json`.

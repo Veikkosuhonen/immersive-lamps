@@ -1,0 +1,8 @@
+{
+    "layers": [
+        {
+            "vertexSource": "minecraft:shaders/material/vertex.vert",
+            "fragmentSource": "minecraft:shaders/material/lantern.frag"
+        }
+    ]
+}

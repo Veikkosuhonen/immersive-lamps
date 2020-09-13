@@ -1,0 +1,8 @@
+{
+    "layers": [
+        {
+            "vertexSource":   "minecraft:shaders/material/shroomlight.vert",
+            "fragmentSource": "minecraft:shaders/material/shroomlight.frag"
+        }
+    ]
+}

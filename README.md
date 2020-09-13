@@ -1,3 +1,5 @@
+![](https://github.com/Veikkosuhonen/immersive-lamps/blob/master/immersive-lamps.png)
+
 # immersive-lamps
 
 Custom material shaders for lamps in Minecraft using the shader api provided by [Canvas rendering mod](https://github.com/grondag/canvas) 
